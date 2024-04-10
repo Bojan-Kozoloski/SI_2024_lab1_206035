@@ -1,1 +1,1 @@
-# SI_2024_lab1_206035
+# Bojan Kozoloski, 206035
