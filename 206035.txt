@@ -1,0 +1,144 @@
+BOJAN@DESKTOP-SJ0N96E MINGW64 ~
+$ cd SI_2024_lab1_206035
+
+BOJAN@DESKTOP-SJ0N96E MINGW64 ~/SI_2024_lab1_206035 (master)
+$ git init
+Reinitialized existing Git repository in C:/Users/BOJAN/SI_2024_lab1_206035/.git/
+
+BOJAN@DESKTOP-SJ0N96E MINGW64 ~/SI_2024_lab1_206035 (master)
+$ git add .
+warning: in the working copy of 'SILab1Main.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'SILab1_1.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'SILab1_2.java', LF will be replaced by CRLF the next time Git touches it
+
+BOJAN@DESKTOP-SJ0N96E MINGW64 ~/SI_2024_lab1_206035 (master)
+$ git config --global core.autocrlf true
+
+BOJAN@DESKTOP-SJ0N96E MINGW64 ~/SI_2024_lab1_206035 (master)
+$ git add .
+
+BOJAN@DESKTOP-SJ0N96E MINGW64 ~/SI_2024_lab1_206035 (master)
+$ git push origin master
+To https://github.com/Bojan-Kozoloski/SI_2024_lab1_206035.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/Bojan-Kozoloski/SI_2024_lab1_206035.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+BOJAN@DESKTOP-SJ0N96E MINGW64 ~/SI_2024_lab1_206035 (master)
+$ ^C
+
+BOJAN@DESKTOP-SJ0N96E MINGW64 ~/SI_2024_lab1_206035 (master)
+$ git fetch origin
+remote: Enumerating objects: 13, done.
+remote: Counting objects: 100% (13/13), done.
+remote: Compressing objects: 100% (10/10), done.
+remote: Total 12 (delta 3), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (12/12), 5.36 KiB | 156.00 KiB/s, done.
+From https://github.com/Bojan-Kozoloski/SI_2024_lab1_206035
+   5c294c9..69fc238  master     -> origin/master
+
+BOJAN@DESKTOP-SJ0N96E MINGW64 ~/SI_2024_lab1_206035 (master)
+$ git merge origin/master
+fatal: refusing to merge unrelated histories
+
+BOJAN@DESKTOP-SJ0N96E MINGW64 ~/SI_2024_lab1_206035 (master)
+$ ^C
+
+BOJAN@DESKTOP-SJ0N96E MINGW64 ~/SI_2024_lab1_206035 (master)
+$ git merge origin/master --allow-unrelated-histories
+error: Your local changes to the following files would be overwritten by merge:
+  206035.txt SILab1Main.java SILab1_1.java SILab1_2.java
+Merge with strategy ort failed.
+
+BOJAN@DESKTOP-SJ0N96E MINGW64 ~/SI_2024_lab1_206035 (master)
+$ git reset --hard origin/master
+HEAD is now at 69fc238 Delete logs.txt
+
+BOJAN@DESKTOP-SJ0N96E MINGW64 ~/SI_2024_lab1_206035 (master)
+$ git add SILab1Main
+fatal: pathspec 'SILab1Main' did not match any files
+
+BOJAN@DESKTOP-SJ0N96E MINGW64 ~/SI_2024_lab1_206035 (master)
+$ git add README.md
+
+BOJAN@DESKTOP-SJ0N96E MINGW64 ~/SI_2024_lab1_206035 (master)
+$ git commit -m "Initial commit"
+[master 6eca145] Initial commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+
+BOJAN@DESKTOP-SJ0N96E MINGW64 ~/SI_2024_lab1_206035 (master)
+$ git add 206035.txt
+
+BOJAN@DESKTOP-SJ0N96E MINGW64 ~/SI_2024_lab1_206035 (master)
+$ git commit -m "Final commit"
+[master e51a9f7] Final commit
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 206035.txt
+
+BOJAN@DESKTOP-SJ0N96E MINGW64 ~/SI_2024_lab1_206035 (master)
+$ git add logs.txt
+
+BOJAN@DESKTOP-SJ0N96E MINGW64 ~/SI_2024_lab1_206035 (master)
+$ git commit -m "Final commit"
+[master 628a26c] Final commit
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 logs.txt
+
+BOJAN@DESKTOP-SJ0N96E MINGW64 ~/SI_2024_lab1_206035 (master)
+$ git add SILab1_1
+fatal: pathspec 'SILab1_1' did not match any files
+
+BOJAN@DESKTOP-SJ0N96E MINGW64 ~/SI_2024_lab1_206035 (master)
+$ git add SILab1_1.java
+warning: in the working copy of 'SILab1_1.java', LF will be replaced by CRLF the next time Git touches it
+
+BOJAN@DESKTOP-SJ0N96E MINGW64 ~/SI_2024_lab1_206035 (master)
+$ git config --global core.autocrlf true
+
+BOJAN@DESKTOP-SJ0N96E MINGW64 ~/SI_2024_lab1_206035 (master)
+$ git add SILab1_1.java
+
+BOJAN@DESKTOP-SJ0N96E MINGW64 ~/SI_2024_lab1_206035 (master)
+$ git commit -m "Add starter code"
+[master 03f1690] Add starter code
+ 1 file changed, 16 insertions(+)
+ create mode 100644 SILab1_1.java
+
+BOJAN@DESKTOP-SJ0N96E MINGW64 ~/SI_2024_lab1_206035 (master)
+$ git add SILab1_2.java
+warning: in the working copy of 'SILab1_2.java', LF will be replaced by CRLF the next time Git touches it
+
+BOJAN@DESKTOP-SJ0N96E MINGW64 ~/SI_2024_lab1_206035 (master)
+$ git commit -m "Add starter code"
+[master af32600] Add starter code
+ 1 file changed, 14 insertions(+)
+ create mode 100644 SILab1_2.java
+
+BOJAN@DESKTOP-SJ0N96E MINGW64 ~/SI_2024_lab1_206035 (master)
+$ git add SILab1Main.java
+warning: in the working copy of 'SILab1Main.java', LF will be replaced by CRLF the next time Git touches it
+
+BOJAN@DESKTOP-SJ0N96E MINGW64 ~/SI_2024_lab1_206035 (master)
+$ git commit -m "Add starter code"
+[master 21b2855] Add starter code
+ 1 file changed, 17 insertions(+)
+ create mode 100644 SILab1Main.java
+
+BOJAN@DESKTOP-SJ0N96E MINGW64 ~/SI_2024_lab1_206035 (master)
+$ git push -u origin master
+Enumerating objects: 18, done.
+Counting objects: 100% (18/18), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (14/14), done.
+Writing objects: 100% (17/17), 1.92 KiB | 984.00 KiB/s, done.
+Total 17 (delta 4), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (4/4), done.
+To https://github.com/Bojan-Kozoloski/SI_2024_lab1_206035.git
+   69fc238..21b2855  master -> master
+branch 'master' set up to track 'origin/master' .
+Istotaka uptrebiv komandite -vi za dodavanje na tekst komandive tuka se za se drugo sto upotrebiv logs ke bidat malce nasekade izvinete mi trebase vreme da svatam kako sve funkcionira
