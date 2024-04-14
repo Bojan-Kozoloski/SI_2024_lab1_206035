@@ -1,0 +1,264 @@
+$ git log
+commit 21b2855f11f832c61d55bfc2c672598a12f56a7a (HEAD -> master, origin/master)
+Author: Bojan Kozoloski <bojan.kozoloski@yahoo.com>
+Date:   Sun Apr 14 22:55:59 2024 +0200
+
+    Add starter code
+
+commit af326008106a76fdb32cb6a623dde9853321c6c8
+Author: Bojan Kozoloski <bojan.kozoloski@yahoo.com>
+Date:   Sun Apr 14 22:55:11 2024 +0200
+
+    Add starter code
+
+commit 03f16900254acde8754c764d93c83391f9dcaf82
+Author: Bojan Kozoloski <bojan.kozoloski@yahoo.com>
+Date:   Sun Apr 14 22:54:30 2024 +0200
+
+    Add starter code
+
+commit 628a26c78426cecaf2a65b2fad914b8f93df7185
+Author: Bojan Kozoloski <bojan.kozoloski@yahoo.com>
+Date:   Sun Apr 14 22:51:36 2024 +0200
+
+    Final commit
+
+commit e51a9f77d8f5b84bce14dc2c96c56c1b6450a168
+Author: Bojan Kozoloski <bojan.kozoloski@yahoo.com>
+Date:   Sun Apr 14 22:51:01 2024 +0200
+
+    Final commit
+
+commit 6eca145dd4e02b08c790cf4dcd7f5508aad802e2
+Author: Bojan Kozoloski <bojan.kozoloski@yahoo.com>
+Date:   Sun Apr 14 22:49:49 2024 +0200
+
+    Initial commit
+
+commit 69fc2380cd79635eaed6038ad828756ce8bf41bc
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Sun Apr 14 22:38:25 2024 +0200
+
+    Delete logs.txt
+
+commit e8c4fe26c40a78f760477399f99c35d726736ba8
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Sun Apr 14 22:38:18 2024 +0200
+
+    Delete SILab1_2.java
+
+commit 46293b7523ba0a333fd4bf4c2ef1acb206610bbb
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Sun Apr 14 22:38:04 2024 +0200
+
+    Delete SILab1_1.java
+
+commit 0e6e7ef458228037c7aac409fca533dd6450f8e9
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Sun Apr 14 22:37:50 2024 +0200
+
+    Delete SILab1Main.java
+
+commit 740f1629a17b5b018779e22828fbe62441e62136
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Sun Apr 14 22:37:33 2024 +0200
+
+    Delete README.md
+
+commit b438a8cdae8b6f46145a2c6fed3aac0c3e829585
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Sun Apr 14 22:37:22 2024 +0200
+
+    Delete 206035.txt
+
+commit 5c294c932a08bc8b0dccfd841c2128e647114ccd
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Sun Apr 14 21:02:50 2024 +0200
+
+    Final commit
+
+commit fd1cccf265980f736230e55fdaa56f3e09f323a3
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Sun Apr 14 21:02:13 2024 +0200
+
+    Final commit
+
+commit 0bb099fbc7face59b2fa5814be78b1ce92b88ae7
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Sun Apr 14 20:58:21 2024 +0200
+
+    Add starter code
+
+commit 951b207ddf4af8f49cacef2fc13a9b0cf045b2e2
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Sun Apr 14 20:57:43 2024 +0200
+
+    Add starter code
+
+commit 25b56c769cdbe6342f8e96f56d24ea0f133670b8
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Sun Apr 14 20:55:45 2024 +0200
+
+    Add starter code
+
+commit 790789bba859492666eb5a0d19a9507c74262d0e
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Sun Apr 14 20:51:26 2024 +0200
+
+    Initial commit
+
+commit 2f807dc5e5f017917f008e0176708a2c2091c11a
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Sun Apr 14 20:20:27 2024 +0200
+
+    Delete 206035.txt
+
+commit afbe679c469630a402f59e82b73001b0db65529e
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Wed Apr 10 23:42:51 2024 +0200
+
+    Rename README.md to 206035.txt
+
+commit 4b1d801c4af45d02b2541d040dd4da2a89906949
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Wed Apr 10 23:40:49 2024 +0200
+
+    Update README.md
+
+commit 50f9f4a9daef1d78ec960c24f1069d1ec775b3b2
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Wed Apr 10 23:39:21 2024 +0200
+
+    Initial commit
+commit 21b2855f11f832c61d55bfc2c672598a12f56a7a (HEAD -> master, origin/master)
+Author: Bojan Kozoloski <bojan.kozoloski@yahoo.com>
+Date:   Sun Apr 14 22:55:59 2024 +0200
+
+    Add starter code
+
+commit af326008106a76fdb32cb6a623dde9853321c6c8
+Author: Bojan Kozoloski <bojan.kozoloski@yahoo.com>
+Date:   Sun Apr 14 22:55:11 2024 +0200
+
+    Add starter code
+
+commit 03f16900254acde8754c764d93c83391f9dcaf82
+Author: Bojan Kozoloski <bojan.kozoloski@yahoo.com>
+Date:   Sun Apr 14 22:54:30 2024 +0200
+
+    Add starter code
+
+commit 628a26c78426cecaf2a65b2fad914b8f93df7185
+Author: Bojan Kozoloski <bojan.kozoloski@yahoo.com>
+Date:   Sun Apr 14 22:51:36 2024 +0200
+
+    Final commit
+
+commit e51a9f77d8f5b84bce14dc2c96c56c1b6450a168
+Author: Bojan Kozoloski <bojan.kozoloski@yahoo.com>
+Date:   Sun Apr 14 22:51:01 2024 +0200
+
+    Final commit
+
+commit 6eca145dd4e02b08c790cf4dcd7f5508aad802e2
+Author: Bojan Kozoloski <bojan.kozoloski@yahoo.com>
+Date:   Sun Apr 14 22:49:49 2024 +0200
+
+    Initial commit
+
+commit 69fc2380cd79635eaed6038ad828756ce8bf41bc
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Sun Apr 14 22:38:25 2024 +0200
+
+    Delete logs.txt
+
+commit e8c4fe26c40a78f760477399f99c35d726736ba8
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Sun Apr 14 22:38:18 2024 +0200
+
+    Delete SILab1_2.java
+
+commit 46293b7523ba0a333fd4bf4c2ef1acb206610bbb
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Sun Apr 14 22:38:04 2024 +0200
+
+    Delete SILab1_1.java
+
+commit 0e6e7ef458228037c7aac409fca533dd6450f8e9
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Sun Apr 14 22:37:50 2024 +0200
+
+    Delete SILab1Main.java
+
+commit 740f1629a17b5b018779e22828fbe62441e62136
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Sun Apr 14 22:37:33 2024 +0200
+
+    Delete README.md
+
+commit b438a8cdae8b6f46145a2c6fed3aac0c3e829585
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Sun Apr 14 22:37:22 2024 +0200
+
+    Delete 206035.txt
+
+commit 5c294c932a08bc8b0dccfd841c2128e647114ccd
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Sun Apr 14 21:02:50 2024 +0200
+
+    Final commit
+
+commit fd1cccf265980f736230e55fdaa56f3e09f323a3
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Sun Apr 14 21:02:13 2024 +0200
+
+    Final commit
+
+commit 0bb099fbc7face59b2fa5814be78b1ce92b88ae7
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Sun Apr 14 20:58:21 2024 +0200
+
+    Add starter code
+
+commit 951b207ddf4af8f49cacef2fc13a9b0cf045b2e2
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Sun Apr 14 20:57:43 2024 +0200
+
+    Add starter code
+
+commit 25b56c769cdbe6342f8e96f56d24ea0f133670b8
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Sun Apr 14 20:55:45 2024 +0200
+
+    Add starter code
+
+commit 790789bba859492666eb5a0d19a9507c74262d0e
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Sun Apr 14 20:51:26 2024 +0200
+
+    Initial commit
+
+commit 2f807dc5e5f017917f008e0176708a2c2091c11a
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Sun Apr 14 20:20:27 2024 +0200
+
+    Delete 206035.txt
+
+commit afbe679c469630a402f59e82b73001b0db65529e
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Wed Apr 10 23:42:51 2024 +0200
+
+    Rename README.md to 206035.txt
+
+commit 4b1d801c4af45d02b2541d040dd4da2a89906949
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Wed Apr 10 23:40:49 2024 +0200
+
+    Update README.md
+
+commit 50f9f4a9daef1d78ec960c24f1069d1ec775b3b2
+Author: Бојан Козолоски <86926746+Bojan-Kozoloski@users.noreply.github.com>
+Date:   Wed Apr 10 23:39:21 2024 +0200
+
+    Initial commit
+(END)se nadevam se ima tuka copy paste imam na se napraveno ako ne se spomnati vi naj na kraj gi napraviv se zbuniv za toa istotaka ne gi smeniv java programite bidejki moe svakjanje e toa deka tie treba za drugite zadaci a jas samo 1-8 i 28-29 za da mi bide priznato labs1
